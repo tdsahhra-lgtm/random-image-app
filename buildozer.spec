@@ -1,7 +1,7 @@
 [app]
 
 title = Random Image App
-
+version = 1.0
 package.name = randomimageapp
 package.domain = org.example
 
